@@ -10,3 +10,21 @@ p {
   margin: 0;
   padding: 0;
 }
+
+.inner-box {
+  background-color: red;
+  padding:10px; 
+}
+
+.white-text{
+  color:white;
+}
+.box {
+  border:10px;
+  border-color: purple;
+  color:yellow;
+}
+
+#outer-box{
+  border:10px solid purple;
+}
